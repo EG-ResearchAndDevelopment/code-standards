@@ -11,5 +11,6 @@ First of all the first three sections:
 * [03 - Code Organisation](03_code_organisation.md)
 * [04 - Best Practices](04_best_practices.md)
 * [05 - Unit Testing](05_unit_testing.md)
+* [06 - SQL DWH](06_SQL_DWH_basics.md)
 
 The guidelines are a simplified version of Google's Python Style Guide. The original guide can be found [here](https://google.github.io/styleguide/pyguide.html).
